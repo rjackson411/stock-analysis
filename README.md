@@ -62,11 +62,11 @@ Next i
 
 ### Stock Performance in 2017
 
-![](Resouces/Stocks_2017.png)
+![](Resources/Stocks_2017.png)
 
 ### Stock Performance in 2018
 
-![](Resouces/Stocks_2018.png)
+![](Resources/Stocks_2018.png)
 
 
 
