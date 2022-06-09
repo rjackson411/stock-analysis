@@ -62,11 +62,14 @@ Next i
 
 ### Stock Performance in 2017
 
-![](Resources/Stocks_2017.png)
+![Stocks_2017](https://user-images.githubusercontent.com/105829106/172744579-270b2b3d-ff2c-4c4e-8a06-286f4f6461a4.PNG)
+
+
 
 ### Stock Performance in 2018
 
-![](Resources/Stocks_2018.png)
+
+![Stocks_2018](https://user-images.githubusercontent.com/105829106/172744637-6141e722-3ba5-42cb-af8b-eacdc81c78fc.PNG)
 
 
 
@@ -78,6 +81,8 @@ Refactoring makes the code cleaner, more organized, and run more efficiently. A 
 How do these pros and cons apply to refactoring the original VBA script?
 The biggest benefit from refactoring was an decrease in macro run time. The original code took approximately one second to run, whereas our refactored code takes significantly less time to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
-![](Resources/VBA_Challenge_2017.png)
 
-![](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/105829106/172744654-ebd425ed-355a-43b4-a75d-1b2a306a35a5.PNG)
+
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/105829106/172744673-f96d277e-0a47-438a-a919-87b6f25e3037.PNG)
